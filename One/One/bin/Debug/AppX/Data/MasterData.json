@@ -1,0 +1,159 @@
+{
+  "master": {
+    "category": [
+      {
+        "title": "Entertainment",
+        "options": {
+          "option": [
+            {
+              "title": "IGN",
+              "feedurl": "http://feeds.ign.com/ign/all",
+              "img": "/images/IGN.jpg"
+            },
+            {
+              "title": "Total Film",
+              "feedurl": "http://feeds.feedburner.com/totalfilm/news",
+              "img": "/images/TF.jpg"
+            },
+            {
+              "title": "BuzzFeed",
+              "feedurl": "http://www.buzzfeed.com/entertainment.xml",
+              "img": "/images/BuzzFeed.jpg"
+            },
+            {
+              "title": "GeekTyrant",
+              "feedurl": "http://geektyrant.com/news/rss.xml",
+              "img": "/images/GeekTyrant.jpg"
+            },
+            {
+              "title": "Boing Boing",
+              "feedurl": "http://feeds.boingboing.net/boingboing/iBag",
+              "img": "/images/BoingBoing.jpg"
+            },
+            {
+              "title": "Guardian Entertainment",
+              "feedurl": "http://www.guardian.co.uk/tv-and-radio/entertainment/rss",
+              "img": "/images/Guardian.jpg"
+            },
+            {
+              "title": "AskMen Entertainment",
+              "feedurl": "http://www.askmen.com/rss/entertainment.rss",
+              "img": "/images/AskMen.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Living",
+        "options": {
+          "option": [
+            {
+              "title": "Gourmet",
+              "feedurl": "http://live.gourmet.com/feed/",
+              "img": "/images/Gourmet.jpg"
+            },
+            {
+              "title": "AskMen Living",
+              "feedurl": "http://www.askmen.com/rss/fine_living.rss",
+              "img": "/images/AskMen.jpg"
+            },
+            {
+              "title": "Car and Driver",
+              "feedurl": "http://feeds.feedburner.com/caranddriver/blog",
+              "img": "/images/CnD.jpg"
+            },
+            {
+              "title": "Dwell",
+              "feedurl": "http://www.dwell.com/articles/feed",
+              "img": "/images/dwell.jpg"
+            },
+            {
+              "title": "Women's Health",
+              "feedurl": "http://www.womenshealthmag.com/rss",
+              "img": "/images/WomensHealth.jpg"
+            },
+            {
+              "title": "Men's Health",
+              "feedurl": "http://www.menshealth.com/events-promotions/washpofeed",
+              "img": "/images/MensHealth.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "title": "News",
+        "options": {
+          "option": [
+            {
+              "title": "BBC News",
+              "feedurl": "http://fulltextrssfeed.com/feeds.bbci.co.uk/news/rss.xml",
+              "img": "/images/BBCNews.jpg"
+            },
+            {
+              "title": "The Guardian",
+              "feedurl": "http://feeds.guardian.co.uk/theguardian/rss",
+              "img": "/images/Guardian.jpg"
+            },
+            {
+              "title": "New York Times",
+              "feedurl": "http://fulltextrssfeed.com/rss.nytimes.com/services/xml/rss/nyt/GlobalHome.xml",
+              "img": "/images/NYT.jpg"
+            },
+            {
+              "title": "The Times of India",
+              "feedurl": "http://fulltextrssfeed.com/timesofindia.feedsportal.com/c/33039/f/533965/index.rss",
+              "img": "/images/TOI.jpg"
+            },
+            {
+              "title": "Hindustan Times",
+              "feedurl": "http://fulltextrssfeed.com/feeds.hindustantimes.com/HT-HomePage-TopStories",
+              "img": "/images/HT.jpg"
+            },
+            {
+              "title": "BuzzFeed Politics",
+              "feedurl": "http://www.buzzfeed.com/politics.xml",
+              "img": "/images/BuzzFeed.jpg"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Technology",
+        "options": {
+          "option": [
+            {
+              "title": "TechCrunch",
+              "feedurl": "http://feeds.feedburner.com/TechCrunch/",
+              "img": "/images/TC.jpg"
+            },
+            {
+              "title": "The Next Web",
+              "feedurl": "http://feeds2.feedburner.com/thenextweb",
+              "img": "/images/TNW.jpg"
+            },
+            {
+              "title": "Engadget",
+              "feedurl": "http://www.engadget.com/rss.xml",
+              "img": "/images/engadget.jpg"
+            },
+            {
+              "title": "CNET",
+              "feedurl": "http://fulltextrssfeed.com/feeds.feedburner.com/cnet/tcoc",
+              "img": "/images/CNET.jpg"
+            },
+            {
+              "title": "SlashGear",
+              "feedurl": "http://fulltextrssfeed.com/feeds.slashgear.com/slashgear",
+              "img": "/images/SlashGear.jpg"
+            },
+            {
+              "title": "PC World",
+              "feedurl": "http://www.pcworld.com/index.rss",
+              "img": "/images/PCWorld.jpg"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

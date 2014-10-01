@@ -1,0 +1,112 @@
+﻿.wrapper{
+	height:100%;
+	display:-ms-grid;
+	-ms-grid-columns:80px 1fr;
+	-ms-grid-rows:50px 80px 1fr 80px;
+}
+
+.wrapper .header{
+	-ms-grid-column:2;
+	-ms-grid-row:2;
+}
+
+.wrapper .semanticZoomDiv{
+	-ms-grid-column:2;
+	-ms-grid-row:3;
+	height:100%;
+}
+
+.wrapper .semanticZoomDiv #categorylistView{
+	height:100%;
+}
+
+    .wrapper .semanticZoomDiv .semanticZoomItem {
+        background-color:#fd0002;
+        margin-top:50px;
+        height:400px;
+        vertical-align:middle;
+        color:white;
+        font-weight:bold;
+        width:200px;
+        text-align:center;
+    }
+
+        .wrapper .semanticZoomDiv .semanticZoomItem .semanticZoomItem-Text {
+        vertical-align:middle;
+        position:relative;
+        top:45%;
+        }
+
+.wrapper .semanticZoomDiv .win-container{
+	background-color:transparent;
+}
+
+.wrapper .semanticZoomDiv .categoryHeader{
+	height:40px;
+	display:-ms-grid;
+	-ms-grid-columns:200px 1fr;
+}
+.wrapper .semanticZoomDiv .categoryHeaderTitle{
+	width:180px;
+	padding-left:20px;
+	height:40px;
+	background-color:red;
+	-ms-grid-column:1;
+	color:white;
+	/*background-image:url(/images/Transparent.png);*/
+}
+
+.wrapper .semanticZoomDiv .categoryHeader .categoryTitleRectangle{
+	width: 0;
+	height: 0;
+	border-top: 40px solid red;
+	border-right: 20px solid transparent;
+	-ms-grid-column:2;
+}
+
+.wrapper .semanticZoomDiv .categoryItem{
+	width:230px;
+	height:200px;
+	background-image:url(/images/Transparent.png);
+	display:-ms-grid;
+	-ms-grid-columns:30px 160px 10px 30px;
+	-ms-grid-rows:30px 50px 30px 20px 8px 20px;
+}
+.wrapper .semanticZoomDiv .categoryItem .categoryItemImage{
+	-ms-grid-column:1;
+	-ms-grid-row:2;
+	-ms-grid-row-span:4;
+	-ms-grid-column-span:2;
+	box-shadow:0 5px 10px gray;
+}
+
+.wrapper .semanticZoomDiv .categoryItem .categoryItemTitle{
+	-ms-grid-column:2;
+	-ms-grid-column-span:2;
+	-ms-grid-row:6;
+	text-align:center;
+	vertical-align:middle;
+	font-family:'segoe ui';
+	color:white;
+	background-color:maroon;
+	-ms-grid-column-align:center;
+	width:100%;
+	opacity:0.7;
+}
+
+.wrapper .semanticZoomDiv .categoryItem .righttriangle{
+	width: 0;
+	height: 0;
+	border-bottom: 8px solid maroon;
+	border-right: 10px solid transparent;
+	-ms-grid-column:3;
+	-ms-grid-row:5
+}
+
+.wrapper .semanticZoomDiv .categoryItem .leftbar{
+	/*height:100%;
+	background-color:maroon;
+	-ms-grid-column:1;
+	-ms-grid-row:1;
+	-ms-grid-row-span:5;*/
+}

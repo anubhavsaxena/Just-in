@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>groupedCategories</title>
+
+    <script src="../../scripts/jquery-2.0.0.js"></script>
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <link href="/css/default.css" rel="stylesheet" />
+    <link href="/pages/groupedCategories/groupedCategories.css" rel="stylesheet" />
+    <script src="/js/data.js"></script>
+    <script src="/pages/groupedCategories/groupedCategories.js"></script>
+</head>
+<body>
+    <!--Template for groupedCategory header-->
+    <div id="categoryHeaderTemplate" data-win-control="WinJS.Binding.Template">
+        <div class="categoryHeader">
+            <h2 class="categoryHeaderTitle" data-win-bind="textContent:categorytitle"></h2>
+            <div class="categoryTitleRectangle"></div>
+        </div>
+    </div>
+
+    <!--Template for category item-->
+    <div id="categoryItemTemplate" data-win-control="WinJS.Binding.Template">
+        <div class="categoryItem">
+            <img class="categoryItemImage" data-win-bind="src:img" width="190" height="130" />
+            <div class="categoryItemTitle">
+                <h3 style="font-size: 11px; vertical-align: middle" data-win-bind="textContent:title"></h3>
+            </div>
+            <div class="leftbar"></div>
+            <div class="righttriangle"></div>
+        </div>
+    </div>
+    <!--Template for semanticZoom-->
+    <div id="semanticZoomTemplate" data-win-control="WinJS.Binding.Template" style="display: none">
+        <div class="semanticZoomItem">
+            <h2 class="semanticZoomItem-Text" data-win-bind="innerText:categorytitle"></h2>
+        </div>
+    </div>
+    <!--Displayed area-->
+    <div class="wrapper" style="background-image: url(/images/BackgroundImage2.jpg)">
+        <div class="header">
+            <div class="pagetitle">
+                <h1>Select News Sources</h1>
+            </div>
+        </div>
+        <div class="semanticZoomDiv" data-win-control="WinJS.UI.SemanticZoom">
+            <!--<div class="categoryListContainer">-->
+            <div id="categorylistView"
+                data-win-control="WinJS.UI.ListView"
+                data-win-options="{selectionMode: 'multi',
+                tapBehavior: 'toggleSelect', 
+                swipeBehavior: 'none', 
+                layout: { type: WinJS.UI.GridLayout } 
+            }">
+            </div>
+            <!-- </div>-->
+            <!--<div class="zoomedcategoryListContainer">-->
+            <div id="zoomedinsemanticListView"
+                data-win-control="WinJS.UI.ListView"
+                data-win-options="{
+                itemDataSource:Data.categories.groups.dataSource,
+                itemTemplate:select('#semanticZoomTemplate'),
+                selectionMode: 'none',
+                tapBehavior: 'invoke', 
+                swipeBehavior: 'none', 
+                layout: { type: WinJS.UI.GridLayout } 
+            }">
+            </div>
+            <!--</div>-->
+        </div>
+    </div>
+    <!--Markup for appbar-->
+    <div id="createAppBar" data-win-control="WinJS.UI.AppBar" data-win-options="">
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'cmdClear',label:'Clear',icon:'clearselection',section:'selection',tooltip:'Clear selection'}">
+        </button>
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'cmdAccept',label:'Accept',icon:'accept',section:'global',tooltip:'Accept Selection'}">
+        </button>
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'cmdCancel',label:'Cancel',icon:'cancel',section:'global',tooltip:'Cancel'}">
+        </button>
+        <button data-win-control="WinJS.UI.AppBarCommand" data-win-options="{id:'cmdSelectAll',label:'Select All',icon:'selectall',section:'selection',tooltip:'Accept selection'}">
+        </button>
+    </div>
+</body>
+</html>

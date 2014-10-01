@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANUBHAV-PC</Machine>
+    <WindowsUser>Anubhav</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>20A5BD20CE10B4370FF5A97560A9466222755E7096498787E097EE9C35137077</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ed3f6ac6-0b24-4393-b4ad-a7dd0f392c8b_1.0.0.0_neutral__16nx6eva4wbhw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ed3f6ac6-0b24-4393-b4ad-a7dd0f392c8b_16nx6eva4wbhw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ed3f6ac6-0b24-4393-b4ad-a7dd0f392c8b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Anubhav</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-27T11:41:45.069</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\Data\MasterData.json">
+      <PackagePath>Data\MasterData.json</PackagePath>
+      <Modified>2013-06-27T12:40:07.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\AskMen.jpg">
+      <PackagePath>images\AskMen.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:04.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\BackgroundImage.jpg">
+      <PackagePath>images\BackgroundImage.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:04.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\BackgroundImage2.jpg">
+      <PackagePath>images\BackgroundImage2.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:04.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\BBCNews.jpg">
+      <PackagePath>images\BBCNews.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:04.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\BoingBoing.jpg">
+      <PackagePath>images\BoingBoing.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:04.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\BuzzFeed.jpg">
+      <PackagePath>images\BuzzFeed.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:04.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\CnD.jpg">
+      <PackagePath>images\CnD.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\CNET.jpg">
+      <PackagePath>images\CNET.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\dwell.jpg">
+      <PackagePath>images\dwell.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\engadget.jpg">
+      <PackagePath>images\engadget.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\GeekTyrant.jpg">
+      <PackagePath>images\GeekTyrant.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\Gourmet.jpg">
+      <PackagePath>images\Gourmet.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\Guardian.jpg">
+      <PackagePath>images\Guardian.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\HT.jpg">
+      <PackagePath>images\HT.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\IGN.jpg">
+      <PackagePath>images\IGN.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\justIn.jpg">
+      <PackagePath>images\justIn.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-27T11:30:05.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\logo150.jpg">
+      <PackagePath>images\logo150.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-27T11:30:05.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\logo30.jpg">
+      <PackagePath>images\logo30.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-27T11:30:05.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\logo50.jpg">
+      <PackagePath>images\logo50.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\MensHealth.jpg">
+      <PackagePath>images\MensHealth.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\NYT.jpg">
+      <PackagePath>images\NYT.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\PCWorld.jpg">
+      <PackagePath>images\PCWorld.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\SlashGear.jpg">
+      <PackagePath>images\SlashGear.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:05.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\TC.jpg">
+      <PackagePath>images\TC.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:06.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\TF.jpg">
+      <PackagePath>images\TF.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:06.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\TNW.jpg">
+      <PackagePath>images\TNW.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:06.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\TOI.jpg">
+      <PackagePath>images\TOI.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:06.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\widelogo.jpg">
+      <PackagePath>images\widelogo.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-27T11:30:06.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\WomensHealth.jpg">
+      <PackagePath>images\WomensHealth.jpg</PackagePath>
+      <Modified>2013-06-27T11:30:06.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\Transparent.png">
+      <PackagePath>images\Transparent.png</PackagePath>
+      <Modified>2013-06-27T11:30:06.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2013-06-27T11:30:05.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2013-06-27T11:30:05.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2013-06-27T11:30:06.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-27T11:30:06.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\pages\groupedCategories\groupedCategories.css">
+      <PackagePath>pages\groupedCategories\groupedCategories.css</PackagePath>
+      <Modified>2013-06-27T11:30:07.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-06-27T11:30:04.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+      <Modified>2013-06-27T11:30:08.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\pages\groupDetail\groupDetail.css">
+      <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
+      <Modified>2013-06-27T11:30:07.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\pages\groupedItems\groupedItems.css">
+      <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
+      <Modified>2013-06-27T11:30:08.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\pages\groupedCategories\groupedCategories.html">
+      <PackagePath>pages\groupedCategories\groupedCategories.html</PackagePath>
+      <Modified>2013-06-27T11:30:07.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+      <Modified>2013-06-27T11:30:08.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\pages\groupDetail\groupDetail.html">
+      <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
+      <Modified>2013-06-27T11:30:07.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\pages\groupedItems\groupedItems.html">
+      <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
+      <Modified>2013-06-27T11:30:08.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-06-27T11:30:00.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\pages\groupedCategories\groupedCategories.js">
+      <PackagePath>pages\groupedCategories\groupedCategories.js</PackagePath>
+      <Modified>2013-06-29T13:28:21.299</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\scripts\jquery-2.0.0.js">
+      <PackagePath>scripts\jquery-2.0.0.js</PackagePath>
+      <Modified>2013-06-27T11:30:08.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\scripts\jquery-2.0.0.min.js">
+      <PackagePath>scripts\jquery-2.0.0.min.js</PackagePath>
+      <Modified>2013-06-27T11:30:08.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2013-06-30T07:57:40.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-06-27T11:30:07.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2013-06-27T11:30:07.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+      <Modified>2013-06-27T11:30:08.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\pages\groupDetail\groupDetail.js">
+      <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
+      <Modified>2013-06-27T11:30:07.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\pages\groupedItems\groupedItems.js">
+      <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
+      <Modified>2013-06-29T13:28:21.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Anubhav\Documents\Visual Studio 2012\Projects\One\One\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-06-27T11:41:44.787</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN8VM</Machine>
+    <WindowsUser>nagarro</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\Data\MasterData.json">
+      <PackagePath>Data\MasterData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\AskMen.jpg">
+      <PackagePath>images\AskMen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\BackgroundImage.jpg">
+      <PackagePath>images\BackgroundImage.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\BackgroundImage2.jpg">
+      <PackagePath>images\BackgroundImage2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\BBCNews.jpg">
+      <PackagePath>images\BBCNews.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\BoingBoing.jpg">
+      <PackagePath>images\BoingBoing.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\BuzzFeed.jpg">
+      <PackagePath>images\BuzzFeed.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\CnD.jpg">
+      <PackagePath>images\CnD.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\CNET.jpg">
+      <PackagePath>images\CNET.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\dwell.jpg">
+      <PackagePath>images\dwell.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\engadget.jpg">
+      <PackagePath>images\engadget.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\GeekTyrant.jpg">
+      <PackagePath>images\GeekTyrant.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\Gourmet.jpg">
+      <PackagePath>images\Gourmet.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\Guardian.jpg">
+      <PackagePath>images\Guardian.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\HT.jpg">
+      <PackagePath>images\HT.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\IGN.jpg">
+      <PackagePath>images\IGN.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\MensHealth.jpg">
+      <PackagePath>images\MensHealth.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\NYT.jpg">
+      <PackagePath>images\NYT.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\PCWorld.jpg">
+      <PackagePath>images\PCWorld.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\SlashGear.jpg">
+      <PackagePath>images\SlashGear.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\TC.jpg">
+      <PackagePath>images\TC.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\TF.jpg">
+      <PackagePath>images\TF.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\TNW.jpg">
+      <PackagePath>images\TNW.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\TOI.jpg">
+      <PackagePath>images\TOI.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\WomensHealth.jpg">
+      <PackagePath>images\WomensHealth.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\Transparent.png">
+      <PackagePath>images\Transparent.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\pages\groupedCategories\groupedCategories.css">
+      <PackagePath>pages\groupedCategories\groupedCategories.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\pages\groupDetail\groupDetail.css">
+      <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\pages\groupedItems\groupedItems.css">
+      <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\pages\groupedCategories\groupedCategories.html">
+      <PackagePath>pages\groupedCategories\groupedCategories.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\pages\groupDetail\groupDetail.html">
+      <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\pages\groupedItems\groupedItems.html">
+      <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\pages\groupedCategories\groupedCategories.js">
+      <PackagePath>pages\groupedCategories\groupedCategories.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\scripts\jquery-2.0.0.js">
+      <PackagePath>scripts\jquery-2.0.0.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\scripts\jquery-2.0.0.min.js">
+      <PackagePath>scripts\jquery-2.0.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\pages\groupDetail\groupDetail.js">
+      <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\pages\groupedItems\groupedItems.js">
+      <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nagarro\Documents\Visual Studio 2012\Projects\One\One\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

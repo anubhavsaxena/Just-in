@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<master>
+		<category>
+			<title>Entertainment</title>
+			<options>
+				<option>
+					<title>IGN</title>
+					<feedurl>http://feeds.ign.com/ign/all</feedurl>
+					<img>/images/IGN.jpg</img>
+				</option>
+				<option>
+					<title>Total Film</title>
+					<feedurl>http://feeds.feedburner.com/totalfilm/news</feedurl>
+					<img>/images/TF.jpg</img>
+				</option>
+				<option>
+					<title>BuzzFeed</title>
+					<feedurl>http://www.buzzfeed.com/entertainment.xml</feedurl>
+					<img>/images/BuzzFeed.jpg</img>
+				</option>
+				<option>
+					<title>GeekTyrant</title>
+					<feedurl>http://geektyrant.com/news/rss.xml</feedurl>
+					<img>/images/GeekTyrant.jpg</img>
+				</option>
+				<option>
+					<title>Boing Boing</title>
+					<feedurl>http://feeds.boingboing.net/boingboing/iBag</feedurl>
+					<img>/images/BoingBoing.jpg</img>
+				</option>
+				<option>
+					<title>Guardian Entertainment</title>
+					<feedurl>http://www.guardian.co.uk/tv-and-radio/entertainment/rss</feedurl>
+					<img>/images/Guardian.jpg</img>
+				</option>
+				<option>
+					<title>AskMen Entertainment</title>
+					<feedurl>http://www.askmen.com/rss/entertainment.rss</feedurl>
+					<img>/images/AskMen.jpg</img>
+				</option>
+			</options>
+		</category>
+		<category>
+			<title>Living</title>
+			<options>
+				<option>
+					<title>Gourmet</title>
+					<feedurl>http://live.gourmet.com/feed/</feedurl>
+					<img>/images/Gourmet.jpg</img>
+				</option>
+				<option>
+					<title>AskMen Living</title>
+					<feedurl>http://www.askmen.com/rss/fine_living.rss</feedurl>
+					<img>/images/AskMen.jpg</img>
+				</option>
+				<option>
+					<title>Car and Driver</title>
+					<feedurl>http://feeds.feedburner.com/caranddriver/blog</feedurl>
+					<img>/images/CnD.jpg</img>
+				</option>
+				<option>
+					<title>Dwell</title>
+					<feedurl>http://www.dwell.com/articles/feed</feedurl>
+					<img>/images/dwell.jpg</img>
+				</option>
+				<option>
+					<title>Women's Health</title>
+					<feedurl>http://www.womenshealthmag.com/rss</feedurl>
+					<img>/images/WomensHealth.jpg</img>
+				</option>
+				<option>
+					<title>Men's Health</title>
+					<feedurl>http://www.menshealth.com/events-promotions/washpofeed</feedurl>
+					<img>/images/MensHealth.jpg</img>
+				</option>
+			</options>
+		</category>
+		<category>
+			<title>News</title>
+			<options>
+				<option>
+					<title>BBC News</title>
+					<feedurl>http://fulltextrssfeed.com/feeds.bbci.co.uk/news/rss.xml</feedurl>
+					<img>/images/BBCNews.jpg</img>
+				</option>
+				<option>
+					<title>The Guardian</title>
+					<feedurl>http://feeds.guardian.co.uk/theguardian/rss</feedurl>
+					<img>/images/Guardian.jpg</img>
+				</option>
+				<option>
+					<title>New York Times</title>
+					<feedurl>http://fulltextrssfeed.com/rss.nytimes.com/services/xml/rss/nyt/GlobalHome.xml</feedurl>
+					<img>/images/NYT.jpg</img>
+				</option>
+				<option>
+					<title>The Times of India</title>
+					<feedurl>http://fulltextrssfeed.com/timesofindia.feedsportal.com/c/33039/f/533965/index.rss</feedurl>
+					<img>/images/TOI.jpg</img>
+				</option>
+				<option>
+					<title>Hindustan Times</title>
+					<feedurl>http://fulltextrssfeed.com/feeds.hindustantimes.com/HT-HomePage-TopStories</feedurl>
+					<img>/images/HT.jpg</img>
+				</option>
+				<option>
+					<title>BuzzFeed Politics</title>
+					<feedurl>http://www.buzzfeed.com/politics.xml</feedurl>
+					<img>/images/BuzzFeed.jpg</img>
+				</option>
+			</options>
+		</category>
+		<category>
+			<title>Technology</title>
+			<options>
+				<option>
+					<title>TechCrunch</title>
+					<feedurl>http://feeds.feedburner.com/TechCrunch/</feedurl>
+					<img>/images/TC.jpg</img>
+				</option>
+				<option>
+					<title>The Next Web</title>
+					<feedurl>http://feeds2.feedburner.com/thenextweb</feedurl>
+					<img>/images/TNW.jpg</img>
+				</option>
+				<option>
+					<title>Engadget</title>
+					<feedurl>http://www.engadget.com/rss.xml</feedurl>
+					<img>/images/engadget.jpg</img>
+				</option>
+				<option>
+					<title>CNET</title>
+					<feedurl>http://fulltextrssfeed.com/feeds.feedburner.com/cnet/tcoc</feedurl>
+					<img>/images/CNET.jpg</img>
+				</option>
+				<option>
+					<title>SlashGear</title>
+					<feedurl>http://fulltextrssfeed.com/feeds.slashgear.com/slashgear</feedurl>
+					<img>/images/SlashGear.jpg</img>
+				</option>
+				<option>
+					<title>PC World</title>
+					<feedurl>http://www.pcworld.com/index.rss</feedurl>
+					<img>/images/PCWorld.jpg</img>
+				</option>
+			</options>
+		</category>
+	</master>
+	
